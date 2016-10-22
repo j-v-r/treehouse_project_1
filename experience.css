@@ -69,7 +69,7 @@ header .profile-image {
   width: 225px;
   height: 330px;
   border-radius: 10%;
-  border: 3px solid white;
+  border: none;
   transition: all .5s;
   padding: 1.2em;
 }
